@@ -2,10 +2,12 @@
 This repo demonstrates how to use MicroProfile and Kubernetes to create 12 Factor Apps.
 ### Clone and then build the docker image for 12factor-app-a 
 https://github.com/Emily-Jiang/vsummit-12factor-app-a
+
 https://github.com/Emily-Jiang/vsummit-12factor-app-a#create-a-docker-image
 
 ### Clone and then build the docker image for 12factor-app-b
 https://github.com/Emily-Jiang/vsummit-12factor-app-b
+
 https://github.com/Emily-Jiang/vsummit-12factor-app-b#build-a-docker-image
 
 ### Deploy the docker images to Kubernetes
